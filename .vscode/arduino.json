@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "port": "/dev/tty.wchusbserial1410",
+    "sketch": "A_halytin_projekti_v7.ino"
+}
